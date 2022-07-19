@@ -14,7 +14,7 @@ class _candidateState extends State<candidate> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Candidate List"),
+        title: Text("Heloo List"),
       ),
       body:WebView(
         initialUrl: 'http://result.gujaratuniversity.ac.in/',
