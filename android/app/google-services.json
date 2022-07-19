@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "173892281112",
+    "project_id": "guapp-35723",
+    "storage_bucket": "guapp-35723.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173892281112:android:2ed309ddcd9028f46c346d",
+        "android_client_info": {
+          "package_name": "com.example.guapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173892281112-j63349qq2r7s1dtiaolhpst9qurhi1fh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFfGWa2Gc6RQxbFQ3_kq1YumgFxE_vkAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173892281112-j63349qq2r7s1dtiaolhpst9qurhi1fh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
